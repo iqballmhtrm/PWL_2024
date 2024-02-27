@@ -7,7 +7,7 @@
     <title>PWL 2024</title>
 </head>
 <body>
-    <h2>Andy Nugraha Putra</h2>
+    <h2>Muhammd Iqbal MUhtaram</h2>
     <h2>Pemrograman Web Lanjut 2024</h2>
     <h3>Semangat belajar Laravel 10</h3>
 </body>
